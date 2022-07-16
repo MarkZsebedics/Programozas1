@@ -1,6 +1,5 @@
 Egy leegyszerusitett Heroes game combatjat valositja meg.
 
-#intall
 A mappat berakjuk az idea projectek koze, es futtatod a maint.
 Ha konzolrol futtatjuk akkor kicsomagolod egy helyrem, es ott forditot a Main.java-t es futtatod.
 
