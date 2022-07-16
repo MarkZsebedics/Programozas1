@@ -1,7 +1,7 @@
 Egy leegyszerusitett Heroes game combatjat valositja meg.
 
 A mappat berakjuk az idea projectek koze, es futtatod a maint.
-Ha konzolrol futtatjuk akkor kicsomagolod egy helyrem, es ott forditot a Main.java-t es futtatod.
+Ha konzolrol futtatod akkor kicsomagolod egy helyre, es ott forditod a Main.java-t es futtatod.
 
 A konzolra ki van irva h mikor mit lehet csinalni, altalaban 0,1,2 karakterekkel
 vagy az epp megszerzendo egyseg/varazslat nevere reagal a program megfeleloen.
